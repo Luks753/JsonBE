@@ -1,0 +1,19 @@
+{
+  "profiles": [
+  {
+    "username": "teste",
+    "password": "teste",
+    "name": "userteste"
+  },
+  {
+    "username": "teste1",
+    "password": "teste1",
+    "name": "userteste1"
+  },
+  {
+    "username": "teste2",
+    "password": "teste2",
+    "name": "userteste2"
+  },
+  ]
+}
