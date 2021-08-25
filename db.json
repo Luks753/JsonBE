@@ -1,16 +1,19 @@
 {
   "profiles": [
   {
+    "id": 1,
     "username": "teste",
     "password": "teste",
     "name": "userteste"
   },
   {
+    "id": 2,
     "username": "teste1",
     "password": "teste1",
     "name": "userteste1"
   },
   {
+    "id": 3,
     "username": "teste2",
     "password": "teste2",
     "name": "userteste2"
